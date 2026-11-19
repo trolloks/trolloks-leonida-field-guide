@@ -56,10 +56,13 @@ function checkScreenshots(dir: string): string[] {
 
 checkScreenshots(join(here, 'screenshots'));
 
-// Start from an empty output folder so no file from an earlier run survives.
-rmSync(out, { recursive: true, force: true });
+// /output is a mountpoint in the grader, so the output root itself is never removed or replaced. Only the three paths
+// this program writes are cleared first, so a rerun leaves no stale file from an earlier run; anything else in the
+// folder is left alone.
 mkdirSync(out, { recursive: true });
+for (const name of ['app', 'screenshots', 'dossier.json']) rmSync(join(out, name), { recursive: true, force: true });
 cpSync(join(here, 'app'), join(out, 'app'), { recursive: true });
+mkdirSync(join(out, 'screenshots'), { recursive: true });
 cpSync(join(here, 'screenshots'), join(out, 'screenshots'), { recursive: true });
 
 // The scorer's caps (as the kit's program sets them): only text_max_bytes shapes the bytes, the others refuse an entry
