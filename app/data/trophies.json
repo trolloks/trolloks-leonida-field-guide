@@ -1,0 +1,1044 @@
+{
+  "game": "Grand Theft Auto VI",
+  "platform": "PlayStation 5",
+  "list": "the official 55 trophies, 2026-11-18",
+  "notice": "Unofficial fan tracker. Not made by or affiliated with Rockstar Games, Take-Two or PlayStation.",
+  "sources": {
+    "S1": {
+      "label": "Official trophy list (PlayStation list as carried in the kit, dated 2026-11-18)",
+      "detail": "Trophy names, descriptions and grades, as published. The source file is source/official-trophies.json."
+    },
+    "S2": {
+      "label": "Kit hint line (per-trophy hint in the kit starter list, 2026-11-18)",
+      "detail": "Used only for a count the official description does not state. Not verified against the game."
+    },
+    "S3": {
+      "label": "Derived by this guide from the S1 descriptions",
+      "detail": "Roadmap order and missable flags are this guide's reasoning from the official wording. Not checked in game."
+    }
+  },
+  "stages": [
+    {
+      "id": 1,
+      "title": "Story opener and chapters",
+      "summary": "Gone Fishing, the six named missions (trophies 8 to 13) and Chapters 1 to 4, played in story order. Chapter placement of trophies 8 to 13 is not given in the description.",
+      "ids": [
+        2,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Missables, do while they are open",
+      "summary": "One-time events and conditional runs. Earn these as the story and activities offer them.",
+      "ids": [
+        29,
+        37,
+        33,
+        34,
+        47,
+        50,
+        48
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Character strands",
+      "summary": "Each character's final mission, then the eight-strand trophy for strangers.",
+      "ids": [
+        22,
+        23,
+        24,
+        26,
+        27,
+        25
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Activities and counts",
+      "summary": "Races, stunts, shooting, crime and vehicle counts. Work these alongside the story.",
+      "ids": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        31,
+        32,
+        36,
+        38,
+        39,
+        40,
+        41,
+        43,
+        44,
+        45,
+        46,
+        49,
+        51,
+        52,
+        53,
+        55
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Collectibles",
+      "summary": "Cards, vehicles, areas, meditation spots and garages: a map-wide sweep.",
+      "ids": [
+        28,
+        30,
+        35,
+        42,
+        54
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Finish",
+      "summary": "The final mission, 100% completion, then the platinum.",
+      "ids": [
+        7,
+        14,
+        1
+      ]
+    }
+  ],
+  "trophies": [
+    {
+      "id": 1,
+      "name": "Vice Got a Price!",
+      "description": "Congratulations! You're a Leonida Legend.",
+      "grade": "platinum",
+      "kind": "meta",
+      "missable": false,
+      "missableBasis": null,
+      "count": null,
+      "stage": 6,
+      "sources": [
+        "S1"
+      ],
+      "guide": "The platinum. It unlocks once the other 54 trophies are earned, so it is the last item on the roadmap. Nothing to do on its own."
+    },
+    {
+      "id": 2,
+      "name": "Just Like Paradise",
+      "description": "Complete Gone Fishing.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "missableBasis": null,
+      "count": null,
+      "stage": 1,
+      "sources": [
+        "S1"
+      ],
+      "guide": "Finish the opening mission, Gone Fishing. It is the first trophy on the roadmap and it is credited on completion of that one mission."
+    },
+    {
+      "id": 3,
+      "name": "Paradise Lost",
+      "description": "Complete Chapter 1.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "missableBasis": null,
+      "count": null,
+      "stage": 1,
+      "sources": [
+        "S1"
+      ],
+      "guide": "Complete Chapter 1. Finish every Chapter 1 story mission; the trophy follows the chapter's end, so there is no separate step."
+    },
+    {
+      "id": 4,
+      "name": "T**s Ass Drug Money",
+      "description": "Complete Chapter 2.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "missableBasis": null,
+      "count": null,
+      "stage": 1,
+      "sources": [
+        "S1"
+      ],
+      "guide": "Complete Chapter 2 by finishing its story missions in order. Like Chapter 1, the trophy is a chapter-completion check, not a separate task."
+    },
+    {
+      "id": 5,
+      "name": "Vice City, Baby!",
+      "description": "Complete Chapter 3.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "missableBasis": null,
+      "count": null,
+      "stage": 1,
+      "sources": [
+        "S1"
+      ],
+      "guide": "Complete Chapter 3 by finishing its story missions. Chapter completion is the only requirement the description gives."
+    },
+    {
+      "id": 6,
+      "name": "Top Of The World, Ma",
+      "description": "Complete Chapter 4.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "missableBasis": null,
+      "count": null,
+      "stage": 1,
+      "sources": [
+        "S1"
+      ],
+      "guide": "Complete Chapter 4 by finishing its story missions. This is the last chapter trophy, so the final mission (trophy 7) comes after it."
+    },
+    {
+      "id": 7,
+      "name": "You Gotta Know When to Get Off",
+      "description": "Complete the final mission.",
+      "grade": "gold",
+      "kind": "story",
+      "missable": false,
+      "missableBasis": null,
+      "count": null,
+      "stage": 6,
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "guide": "Complete the final mission. Gold grade. Finish it after the chapters, the strands and the missables, because the roadmap puts the story's end last among the story items."
+    },
+    {
+      "id": 8,
+      "name": "Trust",
+      "description": "Complete Breakfast Run.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "missableBasis": null,
+      "count": null,
+      "stage": 1,
+      "sources": [
+        "S1"
+      ],
+      "guide": "Complete the mission Breakfast Run. Named mission in the official description; play it when the story offers it."
+    },
+    {
+      "id": 9,
+      "name": "Break the Bank",
+      "description": "Complete The Cartel Heist.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "missableBasis": null,
+      "count": null,
+      "stage": 1,
+      "sources": [
+        "S1"
+      ],
+      "guide": "Complete the mission The Cartel Heist. Named mission in the official description; the trophy is credited on completion."
+    },
+    {
+      "id": 10,
+      "name": "Family Matters",
+      "description": "Complete Child's Play.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "missableBasis": null,
+      "count": null,
+      "stage": 1,
+      "sources": [
+        "S1"
+      ],
+      "guide": "Complete the mission Child's Play. Named mission in the official description; complete it as the story offers it."
+    },
+    {
+      "id": 11,
+      "name": "DWNFALL",
+      "description": "Complete Headliners.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "missableBasis": null,
+      "count": null,
+      "stage": 1,
+      "sources": [
+        "S1"
+      ],
+      "guide": "Complete the mission Headliners. Named mission in the official description; complete it when the story offers it."
+    },
+    {
+      "id": 12,
+      "name": "Hi-Jacked",
+      "description": "Complete VCIA Takedown.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "missableBasis": null,
+      "count": null,
+      "stage": 1,
+      "sources": [
+        "S1"
+      ],
+      "guide": "Complete the mission VCIA Takedown. The place name VCIA also appears in trophy 37's description; the description here only names the mission."
+    },
+    {
+      "id": 13,
+      "name": "Snow Storm",
+      "description": "Complete Operation Savage Glory.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "missableBasis": null,
+      "count": null,
+      "stage": 1,
+      "sources": [
+        "S1"
+      ],
+      "guide": "Complete the mission Operation Savage Glory. Named mission in the official description; complete it when the story offers it."
+    },
+    {
+      "id": 14,
+      "name": "A Long Road",
+      "description": "Attain 100% Completion.",
+      "grade": "gold",
+      "kind": "meta",
+      "missable": false,
+      "missableBasis": null,
+      "count": null,
+      "stage": 6,
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "guide": "Attain 100% completion. Gold grade. It needs everything else on the list, so it sits near the end of the roadmap. Whether a missed item can still be recovered is not stated in the description; check before relying on it."
+    },
+    {
+      "id": 15,
+      "name": "Cunning Stunts",
+      "description": "Complete 250 Stunts.",
+      "grade": "silver",
+      "kind": "activities",
+      "missable": false,
+      "missableBasis": null,
+      "count": {
+        "target": 250,
+        "source": "S1"
+      },
+      "stage": 4,
+      "sources": [
+        "S1"
+      ],
+      "guide": "Complete 250 stunts. Silver grade. Stunts add up across ordinary play, so keep a running count while you drive."
+    },
+    {
+      "id": 16,
+      "name": "Master of None",
+      "description": "Try each type of activity once.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "missableBasis": null,
+      "count": {
+        "target": 9,
+        "source": "S2"
+      },
+      "stage": 4,
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "guide": "Try each type of activity once. The kit hint counts 9 types (S2); check the game's activity list to confirm the set before you tick it off."
+    },
+    {
+      "id": 17,
+      "name": "The Shootist",
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "grade": "silver",
+      "kind": "activities",
+      "missable": false,
+      "missableBasis": null,
+      "count": {
+        "target": 42,
+        "source": "S2"
+      },
+      "stage": 4,
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "guide": "Earn a gold medal in all Shooting Range challenges. Silver grade. The kit hint counts 42 challenges (S2): gold each one, then confirm the total on the range list in game."
+    },
+    {
+      "id": 18,
+      "name": "Top Fun",
+      "description": "Win a Top Fun Drone Race at every location.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "missableBasis": null,
+      "count": {
+        "target": 14,
+        "source": "S2"
+      },
+      "stage": 4,
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "guide": "Win a Top Fun drone race at every location. The kit hint counts 14 locations (S2): win one race at each, keeping a list as you go."
+    },
+    {
+      "id": 19,
+      "name": "Earn Cash, Not Kudos",
+      "description": "Win 20 different races.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "missableBasis": null,
+      "count": {
+        "target": 20,
+        "source": "S1"
+      },
+      "stage": 4,
+      "sources": [
+        "S1"
+      ],
+      "guide": "Win 20 different races. Each race counts once, so repeating the same race does not add to the total."
+    },
+    {
+      "id": 20,
+      "name": "Baited My Tackle",
+      "description": "Beat Cal in a fishing challenge.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "missableBasis": null,
+      "count": null,
+      "stage": 4,
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "guide": "Beat Cal in a fishing challenge. Win one fishing challenge against Cal. The description names only Cal and the fishing challenge."
+    },
+    {
+      "id": 21,
+      "name": "Stick Fiddler",
+      "description": "Complete an arcade game.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "missableBasis": null,
+      "count": null,
+      "stage": 4,
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "guide": "Complete an arcade game. Finish one arcade game; you do not need every arcade game in the set."
+    },
+    {
+      "id": 22,
+      "name": "Road to Rehabilitation",
+      "description": "Complete the final mission for Andy.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": true,
+      "missableBasis": "A final mission closes a character strand. Once the strand closes, the trophy may be unreachable. The description does not say so; this flag is our reading (S3).",
+      "count": null,
+      "stage": 3,
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "guide": "Complete the final mission for Andy. Finish Andy's strand first, because the final mission comes at its end; the roadmap puts it in the character-strand stage."
+    },
+    {
+      "id": 23,
+      "name": "This Was No Boat Accident",
+      "description": "Complete the final mission for Kenton.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": true,
+      "missableBasis": "A final mission closes a character strand. Once the strand closes, the trophy may be unreachable. The description does not say so; this flag is our reading (S3).",
+      "count": null,
+      "stage": 3,
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "guide": "Complete the final mission for Kenton. Complete Kenton's strand so that its final mission is the last step; the description names only Kenton and the mission."
+    },
+    {
+      "id": 24,
+      "name": "The Lone Rider",
+      "description": "Complete the final mission for Billy.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": true,
+      "missableBasis": "A final mission closes a character strand. Once the strand closes, the trophy may be unreachable. The description does not say so; this flag is our reading (S3).",
+      "count": null,
+      "stage": 3,
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "guide": "Complete the final mission for Billy. Complete Billy's strand so that its final mission is the last step; the description names only Billy and the mission."
+    },
+    {
+      "id": 25,
+      "name": "Strangers & Freaks",
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "grade": "silver",
+      "kind": "story",
+      "missable": true,
+      "missableBasis": "Each stranger strand has an end point, so a strand that closes without being finished cannot be completed later. The description gives the count of eight; the closing rule is our reading (S3).",
+      "count": {
+        "target": 8,
+        "source": "S1"
+      },
+      "stage": 3,
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "guide": "Complete 8 mission strands for strangers across Leonida. Silver grade. Count strands as you finish them; finish each stranger's strand before the story moves past it."
+    },
+    {
+      "id": 26,
+      "name": "Supply & Demand",
+      "description": "Complete the final mission for Randy.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": true,
+      "missableBasis": "A final mission closes a character strand. Once the strand closes, the trophy may be unreachable. The description does not say so; this flag is our reading (S3).",
+      "count": null,
+      "stage": 3,
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "guide": "Complete the final mission for Randy. Finish Randy's strand so that the final mission is last; the description names only Randy and the mission."
+    },
+    {
+      "id": 27,
+      "name": "Spin On This!",
+      "description": "Complete the final mission for Tyrone.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": true,
+      "missableBasis": "A final mission closes a character strand. Once the strand closes, the trophy may be unreachable. The description does not say so; this flag is our reading (S3).",
+      "count": null,
+      "stage": 3,
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "guide": "Complete the final mission for Tyrone. Finish Tyrone's strand so that the final mission is last; the description names only Tyrone and the mission."
+    },
+    {
+      "id": 28,
+      "name": "Positive Mental Attitude",
+      "description": "Meditate at every spot across Leonida.",
+      "grade": "bronze",
+      "kind": "collectibles",
+      "missable": false,
+      "missableBasis": null,
+      "count": {
+        "target": 18,
+        "source": "S2"
+      },
+      "stage": 5,
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "guide": "Meditate at every spot across Leonida. Bronze grade. The kit hint counts 18 spots (S2): visit each spot and meditate once, keeping a list since the spots are scattered across the map."
+    },
+    {
+      "id": 29,
+      "name": "Fair Game",
+      "description": "Hunt a unique animal for Bret.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": true,
+      "missableBasis": "The description says \"a unique animal\", which we read as a single target for one request from Bret, so it can be missed if that target is passed up (S3).",
+      "count": null,
+      "stage": 2,
+      "sources": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "guide": "Hunt a unique animal for Bret. Bret is named in the description; the unique animal is a one-off target, so take the hunt when it is offered."
+    },
+    {
+      "id": 30,
+      "name": "Don't Touch My Deck",
+      "description": "Complete 3 Collectible Card sets.",
+      "grade": "silver",
+      "kind": "collectibles",
+      "missable": false,
+      "missableBasis": null,
+      "count": {
+        "target": 3,
+        "source": "S1"
+      },
+      "stage": 5,
+      "sources": [
+        "S1"
+      ],
+      "guide": "Complete 3 Collectible Card sets. Silver grade. Collect cards until three sets are complete; the description asks for the sets, not the total number of cards."
+    },
+    {
+      "id": 31,
+      "name": "You WAiNKer!",
+      "description": "WAiNK It at 100 locations.",
+      "grade": "silver",
+      "kind": "activities",
+      "missable": false,
+      "missableBasis": null,
+      "count": {
+        "target": 100,
+        "source": "S1"
+      },
+      "stage": 4,
+      "sources": [
+        "S1"
+      ],
+      "guide": "WAiNK It at 100 locations. Silver grade. The description gives the count of 100 locations. The description does not define WAiNK, so read the in-game prompt before you count."
+    },
+    {
+      "id": 32,
+      "name": "One Last Thing",
+      "description": "Complete 50 Challenges.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "missableBasis": null,
+      "count": {
+        "target": 50,
+        "source": "S1"
+      },
+      "stage": 4,
+      "sources": [
+        "S1"
+      ],
+      "guide": "Complete 50 Challenges. Challenges of any kind count toward the 50, so track the total across every challenge type."
+    },
+    {
+      "id": 33,
+      "name": "Hot Together",
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": true,
+      "missableBasis": "The trophy needs the partner present when a four-star wanted level is lost. It is tied to a partner session, so it can be missed if that session does not happen (S3).",
+      "count": null,
+      "stage": 2,
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "guide": "Lose a 4-star wanted level with your partner and escape the heat. Plan it in a partner session: the trophy needs the partner with you when the wanted level is lost."
+    },
+    {
+      "id": 34,
+      "name": "Retail Therapy",
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": true,
+      "missableBasis": "Three shop robberies must run back to back with the partner and no wanted level lost. One lost wanted level ends the run, so it can be missed (S3).",
+      "count": {
+        "target": 3,
+        "source": "S1"
+      },
+      "stage": 2,
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "guide": "Rob 3 shops back to back with your partner without losing your wanted level. Do all three in one unbroken run; a wanted level lost before the third one resets the run."
+    },
+    {
+      "id": 35,
+      "name": "Whip It Good",
+      "description": "Discover 100 vehicles.",
+      "grade": "bronze",
+      "kind": "collectibles",
+      "missable": false,
+      "missableBasis": null,
+      "count": {
+        "target": 100,
+        "source": "S1"
+      },
+      "stage": 5,
+      "sources": [
+        "S1"
+      ],
+      "guide": "Discover 100 vehicles. Vehicles count when they are discovered, so keep moving through the map and track the total."
+    },
+    {
+      "id": 36,
+      "name": "Gunslinger",
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "missableBasis": null,
+      "count": {
+        "target": 5,
+        "source": "S1"
+      },
+      "stage": 4,
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "guide": "Take down 5 enemies in a single use of Combat Focus. Use Combat Focus on a group, since all five takedowns must come from one activation."
+    },
+    {
+      "id": 37,
+      "name": "Catch Me If You Can",
+      "description": "Make an unscheduled departure at VCIA.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": true,
+      "missableBasis": "The description ties the trophy to a scheduled departure from VCIA, so the chance comes at one visit and can be missed (S3).",
+      "count": null,
+      "stage": 2,
+      "sources": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "guide": "Make an unscheduled departure at VCIA. Leave VCIA in a way that is not scheduled, as the description says. The wording ties it to a visit to VCIA, so plan the departure when you are there."
+    },
+    {
+      "id": 38,
+      "name": "Challenging Tank",
+      "description": "Kinda hot in these Rhinos.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "missableBasis": null,
+      "count": null,
+      "stage": 4,
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "guide": "Deal with Rhinos, the tanks. The description is vague, so confirm the exact action in game before you aim for it."
+    },
+    {
+      "id": 39,
+      "name": "Sneakthief",
+      "description": "Rob a jewelry store without being detected.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "missableBasis": null,
+      "count": null,
+      "stage": 4,
+      "sources": [
+        "S1"
+      ],
+      "guide": "Rob a jewelry store without being detected. Stealth matters: a detected robbery does not count, so avoid alarms and witnesses."
+    },
+    {
+      "id": 40,
+      "name": "Maximum Withdrawal",
+      "description": "Rob 5 Bank Vaults and escape.",
+      "grade": "silver",
+      "kind": "activities",
+      "missable": false,
+      "missableBasis": null,
+      "count": {
+        "target": 5,
+        "source": "S1"
+      },
+      "stage": 4,
+      "sources": [
+        "S1"
+      ],
+      "guide": "Rob 5 bank vaults and escape. Silver grade. Each vault robbery must end with an escape, so count only the completed escapes."
+    },
+    {
+      "id": 41,
+      "name": "A Classic Blitz Play",
+      "description": "Rob an Armored Truck and escape.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "missableBasis": null,
+      "count": null,
+      "stage": 4,
+      "sources": [
+        "S1"
+      ],
+      "guide": "Rob an armored truck and escape. One armored-truck robbery with an escape is enough."
+    },
+    {
+      "id": 42,
+      "name": "The Goodtime State",
+      "description": "Explore all of Leonida.",
+      "grade": "bronze",
+      "kind": "collectibles",
+      "missable": false,
+      "missableBasis": null,
+      "count": {
+        "target": 52,
+        "source": "S2"
+      },
+      "stage": 5,
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "guide": "Explore all of Leonida. The kit hint counts 52 areas (S2). Visit each area so it is explored; keep a list of the areas."
+    },
+    {
+      "id": 43,
+      "name": "Pest Control",
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "missableBasis": null,
+      "count": {
+        "target": 9,
+        "source": "S2"
+      },
+      "stage": 4,
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "guide": "Rob an Illegal Operation belonging to each gang. The kit hint counts nine gangs (S2): rob one operation for each gang."
+    },
+    {
+      "id": 44,
+      "name": "In The Beginning…",
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "missableBasis": null,
+      "count": null,
+      "stage": 4,
+      "sources": [
+        "S1"
+      ],
+      "guide": "Enjoy a cocktail with a view on Ocean Beach. Ocean Beach is named in the description, so order a cocktail there with the view."
+    },
+    {
+      "id": 45,
+      "name": "Capital Offense",
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "missableBasis": null,
+      "count": null,
+      "stage": 4,
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "guide": "Smash your way out of a vehicle showroom in classic style, as the description says. The showroom is the place; the vehicle is the tool, so try it with a vehicle inside a showroom."
+    },
+    {
+      "id": 46,
+      "name": "Let’s Go Bowling",
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "missableBasis": null,
+      "count": null,
+      "stage": 4,
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "guide": "Follow-through at the Kolt & Associates bowling alley. Bowl at the Kolt & Associates alley, named in the description, and finish the throw."
+    },
+    {
+      "id": 47,
+      "name": "Personal Best",
+      "description": "A partnership with mass appeal.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": true,
+      "missableBasis": "A partnership moment happens once in the story. If it is passed by, the trophy cannot be earned again (S3).",
+      "count": null,
+      "stage": 2,
+      "sources": [
+        "S1",
+        "S3"
+      ],
+      "guide": "A partnership with mass appeal. This is a single story moment with your partner, so watch for it while the story runs."
+    },
+    {
+      "id": 48,
+      "name": "Actions Speak Louder",
+      "description": "Choices made (for better or worse).",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": true,
+      "missableBasis": "The count is tied to choices in story scenes. Choices passed in a scene are not repeated, so a scene can cost part of the count (S3).",
+      "count": {
+        "target": 500,
+        "source": "S2"
+      },
+      "stage": 2,
+      "sources": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "guide": "Choices made, for better or worse. The kit hint says the count runs to 500 (S2). Make a choice in every scene that offers one; the count builds through the story."
+    },
+    {
+      "id": 49,
+      "name": "Bad Luck, I Guess",
+      "description": "Second time's the charm.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "missableBasis": null,
+      "count": null,
+      "stage": 4,
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "guide": "Succeed on a second try. Fail something once, then succeed on the next attempt; any activity that allows a retry will do."
+    },
+    {
+      "id": 50,
+      "name": "The Truth Is Out There",
+      "description": "What the hell just happened?",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": true,
+      "missableBasis": "The description describes a one-off strange event. Such events happen once, so the chance can pass (S3).",
+      "count": null,
+      "stage": 2,
+      "sources": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "guide": "Witness something strange. The kit hint says to witness something strange (S2). It is a one-off story event, so keep an eye out during the story."
+    },
+    {
+      "id": 51,
+      "name": "Ten Pin",
+      "description": "Bowl 'em over with a melee drive-by.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "missableBasis": null,
+      "count": null,
+      "stage": 4,
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "guide": "Bowl 'em over with a melee drive-by. Knock someone down with a melee drive-by, as the description says and the kit hint (S2) repeats."
+    },
+    {
+      "id": 52,
+      "name": "Dime on the Dollar",
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "missableBasis": null,
+      "count": {
+        "target": 250000,
+        "source": "S1"
+      },
+      "stage": 4,
+      "sources": [
+        "S1"
+      ],
+      "guide": "Earn $250,000 laundering Marked Bills through your contacts. Launder the marked bills through contacts until the total reaches $250,000."
+    },
+    {
+      "id": 53,
+      "name": "Treat Yo Self",
+      "description": "Spend $100,000 across all shops.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "missableBasis": null,
+      "count": {
+        "target": 100000,
+        "source": "S1"
+      },
+      "stage": 4,
+      "sources": [
+        "S1"
+      ],
+      "guide": "Spend $100,000 across all shops. Spending adds up across shops, so the total covers every shop you use."
+    },
+    {
+      "id": 54,
+      "name": "Little Boxes",
+      "description": "Purchase all garage properties.",
+      "grade": "bronze",
+      "kind": "collectibles",
+      "missable": false,
+      "missableBasis": null,
+      "count": {
+        "target": 8,
+        "source": "S2"
+      },
+      "stage": 5,
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "guide": "Purchase all garage properties. The kit hint counts eight garages (S2): buy each one."
+    },
+    {
+      "id": 55,
+      "name": "On the Spot",
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "missableBasis": null,
+      "count": {
+        "target": 10,
+        "source": "S1"
+      },
+      "stage": 4,
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "guide": "Register 10 vehicles to the Scooter Bros app. Register ten vehicles through the app, so keep the count as you go."
+    }
+  ]
+}
